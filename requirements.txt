@@ -1,0 +1,7 @@
+# DocForge 只用 Python 标准库（ast / json / dataclasses / concurrent.futures /
+# pathlib / decimal / typing / argparse …），没有第三方依赖。
+#
+# 所以这个文件是空的 —— 保留它只是为了明确回答"环境怎么装"：
+#     1. 安装 Python 3.9 或更高版本
+#     2. 不需要 pip install
+#     3. python run.py
